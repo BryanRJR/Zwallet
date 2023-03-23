@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		526A321529C946C400E27775 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526A321429C946C400E27775 /* LoginViewController.swift */; };
+		526A321729C946D400E27775 /* Login.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 526A321629C946D400E27775 /* Login.storyboard */; };
+		526A321A29C9775A00E27775 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526A321929C9775A00E27775 /* SignUpViewController.swift */; };
+		526A321C29C9776800E27775 /* SignUp.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 526A321B29C9776800E27775 /* SignUp.storyboard */; };
+		5278EB6329C99BFF00C8607C /* CreatePin.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5278EB6229C99BFF00C8607C /* CreatePin.storyboard */; };
+		5278EB6629C99D0400C8607C /* CreatePinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5278EB6529C99D0400C8607C /* CreatePinViewController.swift */; };
 		52EA5E3A29C80D66008714AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EA5E3929C80D66008714AB /* AppDelegate.swift */; };
 		52EA5E3C29C80D66008714AB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EA5E3B29C80D66008714AB /* SceneDelegate.swift */; };
 		52EA5E3E29C80D66008714AB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EA5E3D29C80D66008714AB /* ViewController.swift */; };
@@ -16,6 +22,10 @@
 		52EA5E5129C80D69008714AB /* Latihan_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EA5E5029C80D69008714AB /* Latihan_2Tests.swift */; };
 		52EA5E5B29C80D69008714AB /* Latihan_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EA5E5A29C80D69008714AB /* Latihan_2UITests.swift */; };
 		52EA5E5D29C80D69008714AB /* Latihan_2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EA5E5C29C80D69008714AB /* Latihan_2UITestsLaunchTests.swift */; };
+		52EA5E6A29C80EC0008714AB /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EA5E6929C80EC0008714AB /* FirstViewController.swift */; };
+		52EA5E6E29C80FCA008714AB /* First.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52EA5E6D29C80FCA008714AB /* First.storyboard */; };
+		52EA5E8429C83569008714AB /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EA5E8329C83569008714AB /* Onboarding.swift */; };
+		52EA5E8629C83BCE008714AB /* OnboardingViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EA5E8529C83BCE008714AB /* OnboardingViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +46,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		526A321429C946C400E27775 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		526A321629C946D400E27775 /* Login.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Login.storyboard; sourceTree = "<group>"; };
+		526A321929C9775A00E27775 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		526A321B29C9776800E27775 /* SignUp.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SignUp.storyboard; sourceTree = "<group>"; };
+		5278EB6229C99BFF00C8607C /* CreatePin.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = CreatePin.storyboard; sourceTree = "<group>"; };
+		5278EB6529C99D0400C8607C /* CreatePinViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatePinViewController.swift; sourceTree = "<group>"; };
 		52EA5E3629C80D66008714AB /* Latihan-2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Latihan-2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		52EA5E3929C80D66008714AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52EA5E3B29C80D66008714AB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +65,10 @@
 		52EA5E5629C80D69008714AB /* Latihan-2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Latihan-2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		52EA5E5A29C80D69008714AB /* Latihan_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Latihan_2UITests.swift; sourceTree = "<group>"; };
 		52EA5E5C29C80D69008714AB /* Latihan_2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Latihan_2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		52EA5E6929C80EC0008714AB /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		52EA5E6D29C80FCA008714AB /* First.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = First.storyboard; sourceTree = "<group>"; };
+		52EA5E8329C83569008714AB /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
+		52EA5E8529C83BCE008714AB /* OnboardingViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +96,34 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		526A321129C9463700E27775 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				5278EB6429C99C2300C8607C /* pin */,
+				526A321429C946C400E27775 /* LoginViewController.swift */,
+				526A321629C946D400E27775 /* Login.storyboard */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		526A321829C9771B00E27775 /* register */ = {
+			isa = PBXGroup;
+			children = (
+				526A321929C9775A00E27775 /* SignUpViewController.swift */,
+				526A321B29C9776800E27775 /* SignUp.storyboard */,
+			);
+			path = register;
+			sourceTree = "<group>";
+		};
+		5278EB6429C99C2300C8607C /* pin */ = {
+			isa = PBXGroup;
+			children = (
+				5278EB6229C99BFF00C8607C /* CreatePin.storyboard */,
+				5278EB6529C99D0400C8607C /* CreatePinViewController.swift */,
+			);
+			path = pin;
+			sourceTree = "<group>";
+		};
 		52EA5E2D29C80D66008714AB = {
 			isa = PBXGroup;
 			children = (
@@ -99,10 +147,10 @@
 		52EA5E3829C80D66008714AB /* Latihan-2 */ = {
 			isa = PBXGroup;
 			children = (
+				52EA5E8229C83528008714AB /* Models */,
+				52EA5E6B29C80F5B008714AB /* Modules */,
 				52EA5E3929C80D66008714AB /* AppDelegate.swift */,
 				52EA5E3B29C80D66008714AB /* SceneDelegate.swift */,
-				52EA5E3D29C80D66008714AB /* ViewController.swift */,
-				52EA5E3F29C80D66008714AB /* Main.storyboard */,
 				52EA5E4229C80D69008714AB /* Assets.xcassets */,
 				52EA5E4429C80D69008714AB /* LaunchScreen.storyboard */,
 				52EA5E4729C80D69008714AB /* Info.plist */,
@@ -125,6 +173,44 @@
 				52EA5E5C29C80D69008714AB /* Latihan_2UITestsLaunchTests.swift */,
 			);
 			path = "Latihan-2UITests";
+			sourceTree = "<group>";
+		};
+		52EA5E6B29C80F5B008714AB /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				526A321829C9771B00E27775 /* register */,
+				526A321129C9463700E27775 /* Login */,
+				52EA5E6F29C80FE2008714AB /* Main */,
+				52EA5E6C29C80F6F008714AB /* First */,
+			);
+			path = Modules;
+			sourceTree = "<group>";
+		};
+		52EA5E6C29C80F6F008714AB /* First */ = {
+			isa = PBXGroup;
+			children = (
+				52EA5E6929C80EC0008714AB /* FirstViewController.swift */,
+				52EA5E8529C83BCE008714AB /* OnboardingViewCell.swift */,
+				52EA5E6D29C80FCA008714AB /* First.storyboard */,
+			);
+			path = First;
+			sourceTree = "<group>";
+		};
+		52EA5E6F29C80FE2008714AB /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				52EA5E3D29C80D66008714AB /* ViewController.swift */,
+				52EA5E3F29C80D66008714AB /* Main.storyboard */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		52EA5E8229C83528008714AB /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				52EA5E8329C83569008714AB /* Onboarding.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,7 +319,11 @@
 			files = (
 				52EA5E4629C80D69008714AB /* LaunchScreen.storyboard in Resources */,
 				52EA5E4329C80D69008714AB /* Assets.xcassets in Resources */,
+				526A321C29C9776800E27775 /* SignUp.storyboard in Resources */,
 				52EA5E4129C80D66008714AB /* Main.storyboard in Resources */,
+				526A321729C946D400E27775 /* Login.storyboard in Resources */,
+				5278EB6329C99BFF00C8607C /* CreatePin.storyboard in Resources */,
+				52EA5E6E29C80FCA008714AB /* First.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,9 +348,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				526A321529C946C400E27775 /* LoginViewController.swift in Sources */,
 				52EA5E3E29C80D66008714AB /* ViewController.swift in Sources */,
+				5278EB6629C99D0400C8607C /* CreatePinViewController.swift in Sources */,
+				526A321A29C9775A00E27775 /* SignUpViewController.swift in Sources */,
 				52EA5E3A29C80D66008714AB /* AppDelegate.swift in Sources */,
 				52EA5E3C29C80D66008714AB /* SceneDelegate.swift in Sources */,
+				52EA5E6A29C80EC0008714AB /* FirstViewController.swift in Sources */,
+				52EA5E8429C83569008714AB /* Onboarding.swift in Sources */,
+				52EA5E8629C83BCE008714AB /* OnboardingViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -441,9 +537,10 @@
 				INFOPLIST_FILE = "Latihan-2/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIMainStoryboardFile = First;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -468,9 +565,10 @@
 				INFOPLIST_FILE = "Latihan-2/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIMainStoryboardFile = First;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
